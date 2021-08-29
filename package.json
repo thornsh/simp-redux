@@ -1,0 +1,10 @@
+{
+  "name": "simp-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lanshihao <lanshihao@clickwifi.net>",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^2.5.1"
+  }
+}
